@@ -1,1 +1,2 @@
 This is the second file in newbranch1
+to test revert commit2
